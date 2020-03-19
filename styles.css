@@ -1,0 +1,26 @@
+.radio-selectors {
+    display: flex;
+    flex-direction: row;
+}
+
+.container {
+    padding-top: 40px !important;
+}
+.table-container {
+    margin-top: 40px;
+}
+.heading {
+    align-items: center;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.date-container {
+    margin: 20px;
+    margin-top: 40px;
+}
+.hide {
+    display: none;
+}
+.country-weather {
+    font-weight: 600;
+}
