@@ -1,4 +1,4 @@
-const APP_ID ='f33214141fa15be966dc471bc8418396';
+const APP_ID ='YOUR_API_KEY';
 let weatherPreference = "weather";
 const WeatherHandler = {
     init: function () {
